@@ -63,5 +63,5 @@ using Lab2.Classes;
 
 //Rectangle rect = new Rectangle(length, width);
 //rect.DisplayArea();
-
+//new Commot
 //----------------------------------6.----------------------------------
