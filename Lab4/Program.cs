@@ -42,4 +42,10 @@
 //area.Circle(3);
 
 //6. 
- 
+
+BankAccount account = new BankAccount(5000.0, "Kunj Ramoliya");
+
+account.Deposit(1500.0);
+account.Deposit("Check123", 2000.0);
+account.Withdraw(1000.0); 
+account.Withdraw("Check234", 500.0);
